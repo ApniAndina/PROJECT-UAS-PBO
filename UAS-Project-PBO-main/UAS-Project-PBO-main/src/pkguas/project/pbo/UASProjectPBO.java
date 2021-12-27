@@ -8,7 +8,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import koperasi.*;
 
-public class FinalProjectPBO extends Application {
+public class UASProjectPBO extends Application {
     
     @Override
     public void start(Stage stage) throws Exception {
