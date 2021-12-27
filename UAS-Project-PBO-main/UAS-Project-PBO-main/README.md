@@ -9,6 +9,7 @@
     - Class dbHelper
     - Data Base sqlite
     - Class FormNasabah.fxml
+    - Readme.md
       
 - INTAN SOFIATUN NISYA
 - 2007051015
@@ -16,7 +17,7 @@
     - Class Nasabah
     - Class Individu
     - Class Perusahaan
-    - Readme.md
+    - Class Structure
 
 - HANIFA MUSLIMAH
 - 2007051046
@@ -24,7 +25,6 @@
     - Class Rekening
     - Class UAS PROJECT PBO
     - ER Diagram
-    - Class Structure
 
 # CLASS STRUCTURE
  
