@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkgfinal.project.pbo;
+package pkguas.project.pbo;
 
 import database.*;
 import java.net.URL;
@@ -24,7 +24,7 @@ import koperasi.*;
 
 /**
  *
- * @author adiha
+ * @author Apni
  */
 public class formNasabahController implements Initializable {
 
