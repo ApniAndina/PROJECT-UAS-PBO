@@ -22,12 +22,7 @@ public class FinalProjectPBO extends Application {
 
     public static void main(String[] args) {
         launch(args);
-//        dbHelper db = new dbHelper();
-//        db.createTable();
-//        rekeningDataModel datamodel = new rekeningDataModel();
-//        Rekening rek = new Rekening(1,1);
-//        Perusahaan nasabahIndividu = new Perusahaan(1,"Adiwijaya","Gisting","120",rek);
-//        datamodel.addNasabah(nasabahIndividu);
+
     }
     
 }
