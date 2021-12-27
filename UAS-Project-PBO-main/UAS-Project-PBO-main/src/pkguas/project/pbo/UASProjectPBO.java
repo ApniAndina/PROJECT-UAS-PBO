@@ -1,4 +1,4 @@
-package pkgfinal.project.pbo;
+package pkguas.project.pbo;
 
 import database.*;
 import javafx.application.Application;
